@@ -1,0 +1,2 @@
+./calGdtRmsdScore ./T0388_decoy/circle_TS1 ./Casp8_QueryDB/0388_A.db
+
